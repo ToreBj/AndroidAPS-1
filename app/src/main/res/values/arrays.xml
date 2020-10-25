@@ -30,6 +30,7 @@
         <item>@string/de_lang</item>
         <item>@string/fr_lang</item>
         <item>@string/nl_lang</item>
+        <item>@string/no_lang</item>
         <item>@string/es_lang</item>
         <item>@string/el_lang</item>
         <item>@string/it_lang</item>
@@ -54,6 +55,7 @@
         <item>de</item>
         <item>fr</item>
         <item>nl</item>
+        <item>no</item>
         <item>es</item>
         <item>el</item>
         <item>it</item>
