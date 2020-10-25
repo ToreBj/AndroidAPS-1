@@ -5,6 +5,7 @@
     <string name="af_lang" translatable="false">Afrikaans</string>
     <string name="bg_lang" translatable="false">Bulgarian</string>
     <string name="nl_lang" translatable="false">Dutch</string>
+    <string name="no_lang" translatable="false">Norwegian</string>
     <!--    <string name="fi_lang" translatable="false">Finnish</string> -->
     <string name="fr_lang" translatable="false">French</string>
     <string name="de_lang" translatable="false">German</string>
